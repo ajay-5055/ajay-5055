@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Koyalkar Ajaykumar
+- 👀 I’m interested in Java devloper
+- 🌱 I’m currently learning full stack
+- 💞️ I’m looking to collaborate on java projects
+- 📫 How to reach me koyalkarajaykumar123@gmail.com
